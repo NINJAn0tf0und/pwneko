@@ -1,0 +1,40 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "Icons/Icon 128.png",
+         "16": "Icons/Icon 16.png",
+         "2000": "Icons/Icon 2000.png",
+         "32": "Icons/Icon 32.png",
+         "64": "Icons/Icon 64.png"
+      }
+   },
+   "background": {
+      "service_worker": "background/background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "react-app-holder.js", "contentscriptzomato.js", "contentscriptswiggy.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Zomato™ and Swiggy™ spending calculator to keep track of food expenses.",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "Icons/Icon 128.png",
+      "16": "Icons/Icon 16.png",
+      "2000": "Icons/Icon 2000.png",
+      "32": "Icons/Icon 32.png",
+      "64": "Icons/Icon 64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsCSLo2H17U8BwuT7bECisfcQoQlLEJaGtYvYz6ythzSsUS3AvZSEVh43eUPNzd7vQGnAJOtBPqntTi4a2YpZTaLYMqQREzkEmwBKAtj9qjUqzCKBpZu6miktq3OP7Du63tzR8wfvz4knapGlIYr1gbijzqztrl2uqk6PMqKOygIOoKbTaWI64dBWDqy0mPViUnLTsjteMmDy1xgnUUexg0qqBlu2/TS7L6b4FHwxgsedwYV8cLAPZqiDbH0YUZg5nzCgqCiDtLb+Mzx2ibs89AL8EBipoIqfGJiG1fBXOpQo3T6eQdO8qygYFMpu83QoPMWBmiVp6eewpL9Z04dKkQIDAQAB",
+   "manifest_version": 3,
+   "name": "Spending Calculator for Swiggy™ and Zomato™",
+   "permissions": [ "tabs", "storage", "activeTab", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "Icons/*", "fonts/*.ttf" ]
+   } ]
+}

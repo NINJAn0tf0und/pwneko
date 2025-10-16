@@ -1,0 +1,45 @@
+00:00:00.000232 main     VirtualBox XPCOM Server 7.2.2 r170484 linux.amd64 (Sep 24 2025 20:15:03) release log
+00:00:00.000236 main     Log opened 2025-10-15T15:40:39.981932000Z
+00:00:00.000237 main     Build Type: release
+00:00:00.000240 main     OS Product: Linux
+00:00:00.000242 main     OS Release: 6.17.1-arch1-1
+00:00:00.000244 main     OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 06 Oct 2025 18:48:29 +0000
+00:00:00.000275 main     DMI Product Name: X542UQR
+00:00:00.000291 main     DMI Product Version: 1.0       
+00:00:00.000300 main     Firmware type: UEFI
+00:00:00.001079 main     Secure Boot: Disabled
+00:00:00.001155 main     Host RAM: 7820MB (7.6GB) total, 5637MB (5.5GB) available
+00:00:00.001158 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001159 main     Process ID: 4720
+00:00:00.001159 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.012758 main     IPC socket path: /tmp/.vbox-v1k-ipc/ipcd
+00:00:00.015853 DCon01   VirtualBox: object creation starts
+00:00:00.015967 DCon01   Home directory: '/home/v1k/.config/VirtualBox'
+00:00:00.032450 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.033479 DCon01   HostDnsMonitor: initializing
+00:00:00.033818 DCon01   NAT: resolv.conf: nameserver 192.168.31.1
+00:00:00.033825 DCon01   NAT: resolv.conf: nameserver 8.8.8.8
+00:00:00.033840 DCon01   HostDnsMonitor: updating information
+00:00:00.033851 DCon01   HostDnsMonitor: old information
+00:00:00.033853 DCon01     no server entries
+00:00:00.033855 DCon01     no domain set
+00:00:00.033857 DCon01     no search string entries
+00:00:00.033859 DCon01   HostDnsMonitor: new information
+00:00:00.033861 DCon01     server 1: 192.168.31.1
+00:00:00.033863 DCon01     server 2: 8.8.8.8
+00:00:00.033866 DCon01     domain: lan
+00:00:00.033868 DCon01     search string 1: lan
+00:00:00.036236 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.037090 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.037710 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.039805 DCon01   VirtualBox: object created
+00:00:00.850911 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:01.207150 DCon03   Saving settings file "/home/v1k/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.320137 DCon03   Finished saving settings file "/home/v1k/.config/VirtualBox/VirtualBox.xml"
+00:00:12.040796 DCon02   Saving settings file "/home/v1k/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:12.102695 DCon02   Finished saving settings file "/home/v1k/.config/VirtualBox/VirtualBox.xml"
+00:01:55.136562 main     VirtualBox: object deletion starts
+00:01:55.137705 main     HostDnsMonitor: shutting down ...
+00:01:55.138444 main     HostDnsMonitor: shut down
+00:01:55.151087 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:55.151273 main     VirtualBox: object deleted
