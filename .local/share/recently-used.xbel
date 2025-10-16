@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/v1k/Pictures/Wallpapers/wp1837540-attack-on-titan-wallpapers.png" added="2025-10-12T17:25:26.404743Z" modified="2025-10-12T17:25:33.600699Z" visited="2025-10-12T17:25:26.404745Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-12T17:25:33.600696Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/Downloads/Wallpapers/anime/3.png" added="2025-10-12T17:51:57.190830Z" modified="2025-10-12T17:51:57.190834Z" visited="2025-10-12T17:51:57.190831Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-10-12T17:51:57.190832Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/Pictures/Wallpapers/1323165.png" added="2025-10-12T18:24:41.321081Z" modified="2025-10-12T18:24:42.603399Z" visited="2025-10-12T18:24:41.321082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-12T18:24:42.603389Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/Pictures/Wallpapers/749966.png" added="2025-10-12T18:36:05.878624Z" modified="2025-10-12T18:36:06.410172Z" visited="2025-10-12T18:36:05.878626Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-12T18:36:06.410167Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/.config/fish/functions/fish_greeting.fish" added="2025-10-13T06:45:22.738011Z" modified="2025-10-14T15:30:04.106444Z" visited="2025-10-13T06:45:22.738012Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-fishscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-14T15:30:04.106439Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/.config/caelestia/shell.json" added="2025-10-14T09:04:51.045025Z" modified="2025-10-14T09:15:21.409725Z" visited="2025-10-14T09:04:51.045027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-14T09:15:21.409723Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/.config/foot/foot.ini" added="2025-10-14T15:39:56.488301Z" modified="2025-10-14T15:39:56.488312Z" visited="2025-10-14T15:39:56.488303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-14T15:39:56.488306Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/.config/kitty/kitty.conf" added="2025-10-14T15:46:56.292218Z" modified="2025-10-14T15:46:56.292222Z" visited="2025-10-14T15:46:56.292219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-14T15:46:56.292219Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/.config/fastfetch/config.jsonc" added="2025-10-14T16:06:56.729943Z" modified="2025-10-14T16:16:29.192999Z" visited="2025-10-14T16:06:56.729943Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-14T16:15:34.656735Z" count="9"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-14T16:16:29.192958Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/Downloads/config_with_terminal.jsonc" added="2025-10-14T16:19:40.099882Z" modified="2025-10-14T16:19:40.526021Z" visited="2025-10-14T16:19:40.099885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-14T16:19:40.526017Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/.config/ranger/scope.sh" added="2025-10-14T17:28:19.647524Z" modified="2025-10-14T19:19:53.136413Z" visited="2025-10-14T17:28:19.647524Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-14T19:08:08.336586Z" count="11"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-14T19:19:53.136396Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/Downloads/scope_kitty_only.sh" added="2025-10-14T17:33:46.687247Z" modified="2025-10-14T17:35:11.178447Z" visited="2025-10-14T17:33:46.687251Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-14T17:33:47.750343Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-14T17:35:11.178442Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/.config/ranger/rc.conf" added="2025-10-14T18:10:33.162550Z" modified="2025-10-14T19:27:02.577219Z" visited="2025-10-14T18:10:33.162550Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-14T19:27:02.577217Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-14T19:20:26.008693Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/.config/ranger/rifle.conf" added="2025-10-14T19:36:54.937074Z" modified="2025-10-15T11:55:07.324531Z" visited="2025-10-14T19:36:54.937074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-10-15T11:55:07.324516Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/v1k/Downloads/rifle.conf" added="2025-10-14T19:48:17.679539Z" modified="2025-10-14T19:48:18.102791Z" visited="2025-10-14T19:48:17.679542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-10-14T19:48:18.102781Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
